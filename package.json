@@ -1,0 +1,17 @@
+{
+  "name": "front-back",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "nodemon ."
+  },
+  "author": "alejuliao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
